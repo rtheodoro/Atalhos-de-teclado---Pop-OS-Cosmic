@@ -13,7 +13,7 @@
 - Acesse: `/home/your_user/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom`
 - \*Cole o arquivo `custom`
 
-* Antes de importar, verifique se o brilho de tela é alterado nativamente com `Fn+F1` ou `Fn+F2`. Caso funcione, não esqueça de alterar esta customização.
+\* Antes de importar, verifique se o brilho de tela é alterado nativamente com `Fn+F1` ou `Fn+F2`. Caso funcione, não esqueça de alterar esta customização.
 
 #### Lista de atalhos modificados
 

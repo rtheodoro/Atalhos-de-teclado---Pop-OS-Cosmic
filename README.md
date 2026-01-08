@@ -11,7 +11,7 @@
 #### Importando os atalhos customizados
 
 - Acesse: `/home/your_user/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom`
-- \* Cole o arquivo `custom`
+- \*Cole o arquivo `custom`
 
 * Antes de importar, verifique se o brilho de tela é alterado nativamente com `Fn+F1` ou `Fn+F2`. Caso funcione, não esqueça de alterar esta customização.
 
@@ -32,12 +32,12 @@
 | Focar a próxima área de trabalho                | Super+z ou Super+Ctrl+j ou Super+Ctrl+Right                       |
 | Alternar para a saída acima                     | Super+Alt+Up                                                      |
 | Alternar para a saída abaixo                    | Super+Alt+Down                                                    |
-| * Reduzir o brilho da tela                      | Desativado                                                        |
-| * Aumentar o brilho da tela                     | Desativado                                                        |
+| *Reduzir o brilho da tela                       | Desativado                                                        |
+| *Aumentar o brilho da tela                      | Desativado                                                        |
 | Silenciar entrada do microfone                  | Super+F1                                                          |
 
 
-\* Ver [Como controlar o Brilho de Tela](https://plus.diolinux.com.br/t/como-controlar-o-brilho-de-tela-no-pop-24-04-cosmic/79713/22)
+\*Ver [Como controlar o Brilho de Tela](https://plus.diolinux.com.br/t/como-controlar-o-brilho-de-tela-no-pop-24-04-cosmic/79713/22)
 
 ### Agradecimento 
 

@@ -45,7 +45,7 @@
 
 Mais informações no [Reddit](https://www.reddit.com/r/COSMICDE/comments/1q6ymv8/comment/nycenr8/)
 
-#English Version
+# English Version
 
 # Keyboard Shortcuts - Pop_OS - Cosmic
 

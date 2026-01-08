@@ -2,6 +2,8 @@
 
 **Keyboard shortcuts** - Armazena meus atalhos de teclado customizados para serem importados quando precisar formatar o sistema.
 
+[English version](#English-Version)
+
 #### Exportando os atalhos customizados
 
 - Acesse: `/home/your_user/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom`
@@ -42,3 +44,54 @@
 ### Agradecimento 
 
 Mais informações no [Reddit](https://www.reddit.com/r/COSMICDE/comments/1q6ymv8/comment/nycenr8/)
+
+#English Version
+
+# Keyboard Shortcuts - Pop_OS - Cosmic
+
+**Keyboard shortcuts** - Stores my custom keyboard shortcuts to be imported when I need to format the system.
+
+#### Exporting custom shortcuts
+
+  * Go to: `/home/your_user/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom`
+
+  * \*Copy the custom file
+
+  * Save it somewhere
+
+#### Importing custom shortcuts
+
+  * Go to: `/home/your_user/.config/cosmic/com.system76.CosmicSettings.Shortcuts/v1/custom`
+
+  * \*Paste the custom file
+
+\* Before importing, check if screen brightness is natively changed with Fn+F1 or Fn+F2. If it works, don't forget to change this customization.
+
+
+#### List of modified shortcuts
+
+| Action                               | Shortcuts                                                         |
+| ------------------------------------ | ----------------------------------------------------------------- |
+| Move window down                     | Super+Shift+z or Super+Shift+Down                                 |
+| Move window left                     | Super+Shift+h or Super+Shift+s                                    |
+| Move window right                    | Super+Shift+Right or Super+Shift+d                                |
+| Move window up                       | Super+Shift+Up or Super+Shift+a                                   |
+| Move window to previous workspace    | Super+Ctrl+Shift+Left or Super+Ctrl+Shift+h or Super+Ctrl+Shift+k |
+| Move window to next workspace        | Super+Ctrl+z or Super+Ctrl+Shift+Down or Super+Ctrl+Shift+l       |
+| Move window one monitor to the left  | Super+Alt+Shift+s or Super+Ctrl+l+s                               |
+| Move window one monitor to the right | Super+Alt+Shift+l or Super+Ctrl+s+d                               |
+| Move window one monitor above        | Super+Alt+Shift+Up or Super+Alt+Shift+k                           |
+| Focus previous workspace             | Super+Ctrl+Up or Super+Ctrl+Left or Super+a                       |
+| Focus next workspace                 | Super+z or Super+Ctrl+j or Super+Ctrl+Right                       |
+| Switch to output above               | Super+Alt+Up                                                      |
+| Switch to output below               | Super+Alt+Down                                                    |
+| *Decrease screen brightness          | Disabled                                                          |
+| *Increase screen brightness          | Disabled                                                          |
+| Mute microphone input                | Super+F1                                                          |
+
+\*See [How to Control Screen Brightness](https://plus.diolinux.com.br/t/como-controlar-o-brilho-de-tela-no-pop-24-04-cosmic/79713/22)
+
+#### Acknowledgment
+
+More information on [Reddit](https://www.reddit.com/r/COSMICDE/comments/1q6ymv8/comment/nycenr8/)
+

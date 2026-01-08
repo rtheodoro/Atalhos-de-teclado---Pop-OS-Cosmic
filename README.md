@@ -1,6 +1,6 @@
 # Atalhos de teclado - Pop_OS - Cosmic
 
-Armazena meus atalhos de teclado customizados para serem importados quando precisar formatar o sistema.
+**Keyboard shortcuts** - Armazena meus atalhos de teclado customizados para serem importados quando precisar formatar o sistema.
 
 #### Exportando os atalhos customizados
 
